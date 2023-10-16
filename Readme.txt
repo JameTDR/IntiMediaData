@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+### [MIT](LICENSE)
 
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+> Github [@Meurbaaee](https://github.com/JameTDR) &nbsp;&middot;&nbsp;
+> Instagram [@Meurbaaee](https://instagram.com/Meurbaaee)
